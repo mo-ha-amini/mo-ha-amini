@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo-ha-amini&label=Profile%20views&color=0e75b6&style=flat" alt="mo-ha-amini" /> </p>
 
-- 💬 Ask me about **Rust, Typescript**
+- 🌱 I’m currently learning Rust, Typescript
 
 - 📫 How to reach me **mhaminii18@gmail.com**
 
